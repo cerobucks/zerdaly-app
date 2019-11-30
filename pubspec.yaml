@@ -1,0 +1,53 @@
+name: zerdaly_app
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^0.1.2
+  http: ^0.12.0+2
+  sqflite: ^1.1.7+1
+  image_picker: ^0.6.0+10
+  location: ^2.3.5
+  firebase_analytics: ^5.0.2
+  firebase_messaging: ^5.1.6
+  image: ^2.1.8
+  path_provider: ^1.4.0
+  compressimage: ^0.1.1
+  jiffy: ^2.1.1
+  flutter_masked_text: ^0.8.0
+  geolocator: ^5.1.5
+  carousel_pro: ^0.0.13
+  google_maps_flutter: ^0.5.21+12
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+     - images/login.png
+     - images/register.png
+
+
+
+  fonts:
+    - family: Pacifico
+      fonts:
+        - asset: fonts/Pacifico-Regular.ttf
+    - family: Kanit
+      fonts:
+        - asset: fonts/Kanit-Regular.ttf

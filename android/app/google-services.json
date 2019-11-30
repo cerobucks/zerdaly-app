@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "602623631073",
+    "firebase_url": "https://zerdaly.firebaseio.com",
+    "project_id": "zerdaly",
+    "storage_bucket": "zerdaly.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602623631073:android:8ae9462d33b5620469a1a0",
+        "android_client_info": {
+          "package_name": "com.zerdaly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602623631073-dh5p0gim24b89240k3s7dkdoqatliu5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWQBUDP3az8cRxwu9NSng6CybhkmwOmo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602623631073-dh5p0gim24b89240k3s7dkdoqatliu5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602623631073:android:0ea748e0d7c85cda69a1a0",
+        "android_client_info": {
+          "package_name": "com.zerdaly.zerdaly_business_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602623631073-dh5p0gim24b89240k3s7dkdoqatliu5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWQBUDP3az8cRxwu9NSng6CybhkmwOmo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602623631073-dh5p0gim24b89240k3s7dkdoqatliu5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
