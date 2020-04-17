@@ -1,16 +1,12 @@
 # zerdaly_app
+This is a Flutter app that allows clients to register and buy small and medium sized businesses their products
+and recieve it through a delivery.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## What I learned.
+I learned to make calls to APIs. 
+I learned to read jsons and display it it on the interfaces.
+I learned to create responsive design in flutter apps.
+I learned to use an API to process credit card payments.
+I learned to use API such as Mapbox and Google Maps.
+I learned to store data on local databases on the phone.
+I learned to work with tokens to validate the api requests.
