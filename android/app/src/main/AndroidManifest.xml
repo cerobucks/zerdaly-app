@@ -33,7 +33,7 @@
             android:name="com.google.firebase.ml.vision.DEPENDENCIES"
              android:value="ocr" />
          <meta-data android:name="com.google.android.geo.API_KEY" 
-               android:value="AIzaSyAxGAEG38traBe87IBnlCbx1QYfPB_h54g"/>
+               android:value=""/>
     </application>
      <uses-permission android:name="android.permission.INTERNET"/>
      <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
